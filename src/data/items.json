@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "focaccia", "price": 15.99, "imageUrl": "/focaccia.jpg" },
+  {
+    "id": 2,
+    "name": "margherita",
+    "price": 25.99,
+    "imageUrl": "/margherita.jpg"
+  },
+  {
+    "id": 3,
+    "name": "prosciutto",
+    "price": 30.99,
+    "imageUrl": "/prosciutto.jpg"
+  },
+  { "id": 4, "name": "spinaci", "price": 19.99, "imageUrl": "/spinaci.jpg" }
+]
